@@ -1,8 +1,5 @@
-> 工作一年以上的小伙伴可以加这个交流群，群内有免费公开课,现在加入就送Java架构师进阶系列电子书籍：[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-959442351-blue.svg)](https://jq.qq.com/?_wv=1027&k=5tjF8vk).
->
-> **【强烈推荐，最后一天】** 阿里云双12正在做活动啦，两折，需要的不要错过！新人专属（老用户如果不想错过阿里云年底这波福利的话，可以用别人身份证再注册一个阿里云账号）,活动地址：[https://m.aliyun.com/act/team1212?spm=5176.8142029.1139928.2.90ee6d3e7cFdsl#/](https://m.aliyun.com/act/team1212?params=N.TD4MOG6m2w) 。1核1G云服务器1年CPU100%不限性能仅需277，3年仅需708,强烈推荐！
 
-为了优化大家的阅读体验，我重新进行了排版，并且增加了较为详细的目录供大家参考！如果有老哥对操作系统比较重要的知识总结过的话，欢迎找我哦！如果想学 SpringBoot 的话，推荐笔主的另外一个仓库[springboot-integration-examples](https://github.com/Snailclimb/springboot-integration-examples)。
+为了优化大家的阅读体验，我重新进行了排版，并且增加了较为详细的目录供大家参考！如果有老哥对操作系统比较重要的知识总结过的话，欢迎找我哦！[工作三年了，写不出好代码咋办？](https://mp.weixin.qq.com/s?__biz=MzU4NDQ4MzU5OA==&mid=2247484855&idx=1&sn=10e2b580fb246744632690d2cd2f6181&chksm=fd9853d6caefdac0661df8a85da6b48d6222ed81ce5bef3efaf7056da00f8c08cafef0840dec&token=1698876864&lang=zh_CN#rd)
 
 <div align="center">  
 <img src="http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-11-16/49833984.jpg" width=""/>
@@ -186,6 +183,8 @@
 * [选择技术方向都要考虑哪些因素](https://github.com/Snailclimb/Java-Guide/blob/master/其他/选择技术方向都要考虑哪些因素.md) 
 * [结束了我短暂的秋招，说点自己的感受](https://github.com/Snailclimb/JavaGuide/blob/master/%E5%85%B6%E4%BB%96/2018%20%E7%A7%8B%E6%8B%9B.md) 
 * [这7个问题，可能大部分Java程序员都比较关心吧！](https://github.com/Snailclimb/JavaGuide/blob/master/%E9%9D%A2%E8%AF%95%E5%BF%85%E5%A4%87/java%20programmer%20need%20know.md)
+* [【2018总结】即使平凡，也要热爱自己的生活](https://github.com/Snailclimb/JavaGuide/blob/master/%E5%85%B6%E4%BB%96/2018%20summary.md)
+
 ***
 
 ## :envelope: 说明
